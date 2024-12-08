@@ -1,16 +1,23 @@
 # face_id_animation
 
-A new Flutter project.
+Face ID animation(fake) using Flutter. 
 
-## Getting Started
+## Flutter Version
 
-This project is a starting point for a Flutter application.
+```
+Flutter 3.24.5 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision dec2ee5c1f (4 weeks ago) • 2024-11-13 11:13:06 -0800
+Engine • revision a18df97ca5
+Tools • Dart 3.5.4 • DevTools 2.37.3
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Files
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Face ID Animation](lib/screens/face_id_animation_screen.dart)
+- [Face ID Animation Controller](lib/screens/face_id_animation_controller.dart)
+- [Face ID Painter](lib/screens/face_id_painter.dart)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+
+https://github.com/user-attachments/assets/86149538-683a-436a-b725-1d8040f67235
+
